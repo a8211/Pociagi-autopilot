@@ -1,0 +1,11 @@
+{
+  "sk1/1": {
+    "left": "garnuszek",
+    "straight": ["nether", "giza"],
+    "right": "albert"
+  },
+  "sk1/2": {
+    "left": "stacja_x",
+    "straight": "stacja_y"
+  }
+}
